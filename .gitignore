@@ -1,0 +1,5 @@
+asd.txt
+.DS_Store
+*.zip
+*.gz
+images/*.psd
