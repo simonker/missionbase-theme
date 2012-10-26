@@ -1,0 +1,89 @@
+@charset "UTF-8";
+/* CSS Document */
+
+ #footer{
+	 background-color:#191919;
+	 border:0px;
+	 margin:0px;
+	
+	}
+	
+#footerdiv{
+	position:relative;
+	bottom:0px;
+	
+	width: 950px; 
+	margin: 0px auto; 
+	}
+	
+#footerdiv hr{
+	
+	
+	color: #fff; background-color: #fff; border: 1px solid #ccc; border-style: none none solid;
+	margin:5px 0 10px 0;
+}
+	
+.onecolumn{
+	width:300px;
+	margin:20px 5px 0px 10px;
+	float:left;
+	line-height:2;
+	}
+	
+#footerdiv .littlehr{
+	margin-left:0px;}
+	
+#footerdiv .date{
+	line-height:1em;
+	color:#999
+	}
+
+#footerdiv h2{
+	color:#fff;	
+	font-weight: normal;
+	}
+	
+#footerdiv h1{
+	
+	color:#fff;
+	}
+	
+#footerdiv h3{
+	font-size:13px;
+	color:#ccc;	
+	font-weight: normal;
+}
+
+#footerdiv h4{
+	font-size:17px;
+	color:#ccc;	
+	font-weight: normal;
+}
+
+#footerdiv h5{
+	font-size:14px;
+	color:#ccc;	
+	font-weight: normal;
+	margin:10px 0 0 0 ;
+}
+
+#footerdiv 	body{
+	font-family:Helvetica, Arial, sans-serif;
+	font-size:12px;	
+	color:#ccc;
+}
+
+#footerdiv a{
+	color:#ccc;
+	font-size:9px;
+		font-family:Georgia, "Times New Roman", Times, serif;
+		font-size:13px;
+		font-style:italic;
+		font-weight: normal;
+	}
+
+#copyright{
+	text-align:center;
+	color:#CCC;
+	margin:10px 5px 5px 5px;
+	}
